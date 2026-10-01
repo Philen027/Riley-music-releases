@@ -1,14 +1,15 @@
 {
-  "latestVersion": "1.1.0",
-  "versionCode": 11,
-  "title": "Riley Music v1.1.0 â€” Straight Track Layout, Playlist Shuffle & Download, Resilient Import",
-  "message": "Perfect straight-column track alignment, full playlist shuffle & download functionality, resilient shared playlist import for huge cut-off links, and cleaned library screen.",
-  "apkUrl": "https://github.com/Philen027/Riley-music-releases/releases/download/v1.1.0/Riley-music-v1.1.0.apk",
+  "latestVersion": "1.1.1",
+  "versionCode": 12,
+  "title": "Riley Music v1.1.1 â€” Quick Update Badge & Direct Library Update Access",
+  "message": "Direct update badge in Library header, prominent App & Updates section, Profile settings updater, and direct browser fallback installer.",
+  "apkUrl": "https://github.com/Philen027/Riley-music-releases/releases/download/v1.1.1/Riley-music-v1.1.1.apk",
   "telegramUrl": "https://t.me/c/3749190752/2",
   "releaseNotes": [
-    "Fixed zig-zag alignment on track rows: titles, artist names, language badges, tabular durations, and action buttons now align in dead-straight vertical columns",
-    "Added functional SHUFFLE and DOWNLOAD ALL buttons inside custom and liked playlists",
-    "Resilient fallback parser for importing shared playlists from chat apps (e.g. WhatsApp) that cut off huge links or introduce broken URL encoding",
-    "Quick Update access available from both Library tab and Profile modal"
+    "Added quick Update badge in Library header (tap to open update dialog)",
+    "Moved App & Updates card to the top of Library (visible without scrolling)",
+    "Added Check for Updates section in Profile / Settings screen",
+    "Direct Browser APK download fallback to bypass any package installer errors",
+    "Streamlined in-app background download manager"
   ]
 }
