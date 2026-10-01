@@ -1,15 +1,15 @@
 {
   "latestVersion": "1.1.1",
   "versionCode": 12,
-  "title": "Riley Music v1.1.1 â€” Quick Update Badge & Direct Library Update Access",
-  "message": "Direct update badge in Library header, prominent App & Updates section, Profile settings updater, and direct browser fallback installer.",
+  "title": "Riley Music v1.1.1 â€” Full Playlist Import & Streamlined Updates",
+  "message": "All playlist songs import fix, streamlined update checks, cleaned UI, and optimized library layout.",
   "apkUrl": "https://github.com/Philen027/Riley-music-releases/releases/download/v1.1.1/Riley-music-v1.1.1.apk",
   "telegramUrl": "https://t.me/c/3749190752/2",
   "releaseNotes": [
-    "Added quick Update badge in Library header (tap to open update dialog)",
-    "Moved App & Updates card to the top of Library (visible without scrolling)",
-    "Added Check for Updates section in Profile / Settings screen",
-    "Direct Browser APK download fallback to bypass any package installer errors",
-    "Streamlined in-app background download manager"
+    "Fixed playlist link import so all songs in shared playlists are imported completely",
+    "Streamlined update section with dedicated Check for Updates and Up To Date status",
+    "Cleaned library UI removing version and build numbers",
+    "Optimized layout placing App & Updates below Custom Playlists",
+    "Direct offline lossless downloads and background audio playback"
   ]
 }
