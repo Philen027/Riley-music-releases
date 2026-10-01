@@ -9,6 +9,6 @@
     "Fixed zig-zag alignment on track rows: titles, artist names, language badges, tabular durations, and action buttons now align in dead-straight vertical columns",
     "Added functional SHUFFLE and DOWNLOAD ALL buttons inside custom and liked playlists",
     "Resilient fallback parser for importing shared playlists from chat apps (e.g. WhatsApp) that cut off huge links or introduce broken URL encoding",
-    "Removed redundant App & Updates banner from the Library tab"
+    "Quick Update access available from both Library tab and Profile modal"
   ]
 }
